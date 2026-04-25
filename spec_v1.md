@@ -34,9 +34,9 @@ Comments can be added using multiple syntaxes like this:
 ```
 # one line
 // one line
-###
+#*
     multi line
-###
+*#
 /*
     multi line
 */
