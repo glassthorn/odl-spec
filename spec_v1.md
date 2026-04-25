@@ -16,7 +16,7 @@ Below is an example document you can inspect.
 # my package definition or something idk
 mypkg {
     name        = 'ODL'
-    description = 'a configuration and object description language.',
+    description = 'a configuration and object description language.'
     source      = 'git:github.com/glassthorn/odl-spec'
 
     version       = APPV ? 'github-release'
