@@ -6,7 +6,7 @@ every aspect and detail of how ODL works.
 
 ## 1. Introduction
 ODL is a minimal but advanced, human-readable configuration and object
-description language designed for structured data. It focused on simplicity,
+description language designed for structured data. It focuses on simplicity,
 using tables and arrays as the primary organization unit. It supports macros
 and several procedure-like operations like null-coalescing.
 
